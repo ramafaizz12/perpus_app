@@ -1,0 +1,6 @@
+- pastikan xampp sudah terinstall dengan php (php versi 8.2 laravel versi 10 )
+- masuk kedalam project laravel lalu jalankan dengan perintah "php artisan serve --host 0.0.0.0 --port 8000"
+- jika berhasil, masuk ke cmd lalu ketik ipconfig lalu lihat pada bagian wireless lan adapter wifi di IPv4 address copy ipnya
+- masuk ke dalam project flutter lalu ketik flutter pub upgrade
+- masuk kedalam folder service lalu pilih file books_service.dart lalu ganti baseUrl dengan alamat ip yang sudah dicopy tadi (hanya alamat ipnya)
+- jalankan project
